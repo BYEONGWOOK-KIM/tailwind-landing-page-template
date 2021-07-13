@@ -30,8 +30,8 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h1 className="h2 mb-4">내가 궁금해?</h1>
+            <p className="text-xl text-gray-600">모르는 내용은 원문을 찾아서 하나씩 해석하며 알아가고 있습니다!</p>
           </div>
 
           {/* Section content */}
